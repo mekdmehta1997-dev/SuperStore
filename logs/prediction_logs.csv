@@ -1,0 +1,2 @@
+Timestamp,Quantity,Sales,Profit,Region,Category,Sub_Category,Ship_Mode,Segment,City,State,Predicted_Discount
+2026-05-07 11:43:41.422364,2,261.96,41.0,South,Furniture,Chairs,Second Class,Consumer,Henderson,Florida,0.20145565

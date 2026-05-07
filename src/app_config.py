@@ -1,0 +1,20 @@
+TARGET_COLUMN = 'Discount'
+
+DROP_COLUMNS = [
+    'Row ID',
+    'Order ID',
+    'Ship Date',
+    'Customer ID',
+    'Customer Name',
+    'Product ID',
+    'Country',
+    'Postal Code',
+    'Order Date',
+    'Product Name'
+]
+
+MODEL_PATH = 'models/model.pkl'
+
+RANDOM_STATE = 42
+
+LOG_FILE = 'logs/prediction_logs.csv'
